@@ -1,0 +1,6 @@
+.metadata*
+.metadata/*
+*.metadata/*
+*.class*
+*.project*
+*.setting*

@@ -16,7 +16,5 @@ public class NilaiMataKuliah {
 		this.nilaiTugas = nilaiTugas;
 		this.nilaiUTS = nilaiUTS;
 		this.nilaiUAS = nilaiUAS;
-	}
-	
-	
+	}		
 }
